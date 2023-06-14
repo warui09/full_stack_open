@@ -1,2 +1,2 @@
-# full_stack_open
+# weatherApp
 Created with CodeSandbox
