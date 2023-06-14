@@ -1,2 +1,1 @@
-# weatherApp
-Created with CodeSandbox
+#Full stack open React project
